@@ -1,0 +1,17 @@
+{
+  "1": {
+    "name": "My Tag",
+    "version": "1.0",
+    "url": "http://www.mytag.com"
+  },
+  "2": {
+    "name": "My Tag 2",
+    "version": "1.0",
+    "url": "http://www.mytag.com"
+  },
+  "3": {
+    "name": "My Tag 3",
+    "version": "1.0",
+    "url": "http://www.mytag.com"
+  }
+}
