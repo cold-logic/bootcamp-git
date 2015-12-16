@@ -18,5 +18,25 @@
     "name": "My Tag 4",
     "version": "1.0",
     "url": "http://www.mytag.com"
+  },
+  "5": {
+    "name": "My Tag 5",
+    "version": "1.0",
+    "url": "http://www.mytag.com"
+  },
+  "6": {
+    "name": "My Tag 6",
+    "version": "1.0",
+    "url": "http://www.mytag.com"
+  },
+  "7": {
+    "name": "My Tag 7",
+    "version": "1.0",
+    "url": "http://www.mytag.com"
+  },
+  "8": {
+    "name": "My Tag 8",
+    "version": "1.0",
+    "url": "http://www.mytag.com"
   }
 }
